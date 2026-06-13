@@ -1,0 +1,74 @@
+
+2026-06-13 13:37:24,709 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:37:24,723 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:37:24,738 | INFO | delivery_system | Order created: 1
+2026-06-13 13:37:24,757 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:37:24,760 | INFO | delivery_system | Order created: 1
+2026-06-13 13:37:24,776 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:37:24,779 | INFO | delivery_system | Order created: 1
+2026-06-13 13:37:24,781 | INFO | delivery_system | Order created: 2
+2026-06-13 13:37:24,795 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:37:24,797 | INFO | delivery_system | Order created: 1
+2026-06-13 13:37:24,800 | INFO | delivery_system | Order created: 2
+2026-06-13 13:37:24,814 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:37:24,816 | INFO | delivery_system | Order created: 1
+2026-06-13 13:37:24,819 | INFO | delivery_system | Order created: 2
+2026-06-13 13:37:24,834 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:37:24,837 | INFO | delivery_system | Order created: 1
+2026-06-13 13:37:24,839 | INFO | delivery_system | Exported 1 orders to JSON: C:\Users\andry\AppData\Local\Temp\pytest-of-andry\pytest-0\test_export_json0\orders.json
+2026-06-13 13:37:24,863 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:37:24,866 | INFO | delivery_system | Order created: 1
+2026-06-13 13:37:24,867 | INFO | delivery_system | Exported 1 orders to JSON: C:\Users\andry\AppData\Local\Temp\pytest-of-andry\pytest-0\test_import_json0\orders.json
+2026-06-13 13:37:24,870 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:37:24,873 | INFO | delivery_system | Order created: 1
+2026-06-13 13:37:24,873 | INFO | delivery_system | Imported 1 orders from JSON: C:\Users\andry\AppData\Local\Temp\pytest-of-andry\pytest-0\test_import_json0\orders.json
+2026-06-13 13:37:24,888 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:37:24,891 | INFO | delivery_system | Order created: 1
+2026-06-13 13:37:24,893 | INFO | delivery_system | Exported 1 orders to XML: C:\Users\andry\AppData\Local\Temp\pytest-of-andry\pytest-0\test_export_xml0\orders.xml
+2026-06-13 13:37:24,918 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:37:24,921 | INFO | delivery_system | Order created: 1
+2026-06-13 13:37:24,922 | INFO | delivery_system | Exported 1 orders to XML: C:\Users\andry\AppData\Local\Temp\pytest-of-andry\pytest-0\test_import_xml0\orders.xml
+2026-06-13 13:37:24,925 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:37:24,928 | INFO | delivery_system | Order created: 1
+2026-06-13 13:37:24,929 | INFO | delivery_system | Imported 1 orders from XML: C:\Users\andry\AppData\Local\Temp\pytest-of-andry\pytest-0\test_import_xml0\orders.xml
+2026-06-13 13:38:04,365 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:38:04,379 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:38:04,392 | INFO | delivery_system | Order created: 1
+2026-06-13 13:38:04,407 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:38:04,410 | INFO | delivery_system | Order created: 1
+2026-06-13 13:38:04,425 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:38:04,427 | INFO | delivery_system | Order created: 1
+2026-06-13 13:38:04,477 | INFO | delivery_system | Order created: 2
+2026-06-13 13:38:04,496 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:38:04,499 | INFO | delivery_system | Order created: 1
+2026-06-13 13:38:04,502 | INFO | delivery_system | Order created: 2
+2026-06-13 13:38:04,519 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:38:04,522 | INFO | delivery_system | Order created: 1
+2026-06-13 13:38:04,525 | INFO | delivery_system | Order created: 2
+2026-06-13 13:38:04,539 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:38:04,541 | INFO | delivery_system | Order created: 1
+2026-06-13 13:38:04,543 | INFO | delivery_system | Exported 1 orders to JSON: C:\Users\andry\AppData\Local\Temp\pytest-of-andry\pytest-1\test_export_json0\orders.json
+2026-06-13 13:38:04,564 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:38:04,611 | INFO | delivery_system | Order created: 1
+2026-06-13 13:38:04,613 | INFO | delivery_system | Exported 1 orders to JSON: C:\Users\andry\AppData\Local\Temp\pytest-of-andry\pytest-1\test_import_json0\orders.json
+2026-06-13 13:38:04,616 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:38:04,619 | INFO | delivery_system | Order created: 1
+2026-06-13 13:38:04,620 | INFO | delivery_system | Imported 1 orders from JSON: C:\Users\andry\AppData\Local\Temp\pytest-of-andry\pytest-1\test_import_json0\orders.json
+2026-06-13 13:38:04,636 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:38:04,639 | INFO | delivery_system | Order created: 1
+2026-06-13 13:38:04,641 | INFO | delivery_system | Exported 1 orders to XML: C:\Users\andry\AppData\Local\Temp\pytest-of-andry\pytest-1\test_export_xml0\orders.xml
+2026-06-13 13:38:04,662 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:38:04,664 | INFO | delivery_system | Order created: 1
+2026-06-13 13:38:04,666 | INFO | delivery_system | Exported 1 orders to XML: C:\Users\andry\AppData\Local\Temp\pytest-of-andry\pytest-1\test_import_xml0\orders.xml
+2026-06-13 13:38:04,706 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:38:04,709 | INFO | delivery_system | Order created: 1
+2026-06-13 13:38:04,710 | INFO | delivery_system | Imported 1 orders from XML: C:\Users\andry\AppData\Local\Temp\pytest-of-andry\pytest-1\test_import_xml0\orders.xml
+2026-06-13 13:41:46,299 | INFO | delivery_system | Customer created: 1
+2026-06-13 13:42:11,980 | INFO | delivery_system | Order created: 1
+2026-06-13 13:42:23,540 | INFO | delivery_system | Order updated: 1
+2026-06-13 13:43:33,049 | INFO | delivery_system | Exported 1 orders to XML: A:\Сode\DAMIR\Practice\delivery_system\example_export.xml
+2026-06-13 13:43:37,146 | INFO | delivery_system | Order updated: 1
+2026-06-13 13:43:37,147 | INFO | delivery_system | Imported 1 orders from XML: A:\Сode\DAMIR\Practice\delivery_system\example_export.xml
+2026-06-13 13:43:51,174 | INFO | delivery_system | Exported 1 orders to JSON: A:\Сode\DAMIR\Practice\delivery_system\example_export.json
+2026-06-13 13:53:33,290 | INFO | delivery_system | Order created: 2
+2026-06-13 13:53:38,318 | INFO | delivery_system | Order created: 3
