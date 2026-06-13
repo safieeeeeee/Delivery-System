@@ -1,3 +1,0 @@
-pytest>=7.0
-tinydb>=4.8
-

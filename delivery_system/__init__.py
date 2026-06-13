@@ -1,2 +1,0 @@
-"""Delivery system training project."""
-

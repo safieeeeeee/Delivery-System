@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<orders>
-  <order id="1" customer_id="1" order_date="2026-06-13" status="новый" total="1500.0">
-    <customer id="1" name="Александр" phone="89930021561" address="г. Москва, ул.Пушкина, д. 2, кв. 101." />
-    <items>
-      <item id="1" order_id="1" product_name="Пицца" quantity="2" price="750.0" />
-    </items>
-  </order>
-</orders>
